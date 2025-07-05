@@ -97,6 +97,3 @@ Border and military surveillance
 Intrusion and infiltration detection
 
 Real-time situational awareness via CCTV/video
-
-
-Let me know if you’d like a logo or badge for your GitHub or a Streamlit app interface added!
